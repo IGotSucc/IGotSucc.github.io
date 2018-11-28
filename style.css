@@ -2,7 +2,7 @@ html{
   font-size: 3em;
 }
 body {
-    background-color: #fff;
+    background-image: linear-gradient(gray, lightgray);
     padding: 25px;
     text-align: center;
 }
